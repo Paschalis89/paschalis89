@@ -12,15 +12,13 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node-js" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="85" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="js" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="85" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg" alt="gitkraken" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="85" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/monday/monday-ar21.svg" alt="monday" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="postgresql" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="85" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="85" height="40"/>
@@ -39,6 +37,9 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="85" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="85" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" width="85" height="40"/>
+  <img src="https://vectorwiki.com/images/YOic8__verdaccio.svg" alt="verdaccio" width="85" height="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" alt="maven" width="85" height="40"/>
   
 
 </p>
